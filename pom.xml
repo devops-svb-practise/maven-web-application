@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Kiran Release Nexus Repository</name>
-	      <url>http://13.234.29.11:9886/kirannexus/repository/Flipkart-Release/</url>
+	      <url>http://13.233.199.216:9886/kirannexus/repository/Flipkart-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Kiran Snapshot Nexus Repository </name>
-	      <url>http://13.234.29.11:9886/kirannexus/repository/Flipkart-Snapshot/</url>
+	      <url>http://13.233.199.216:9886/kirannexus/repository/Flipkart-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
